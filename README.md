@@ -1,6 +1,8 @@
 ### About Me 👋
 - Programador Javascript/Typescript
-  - Node.js / Express / TypeORM / PostgreSQL / MongoDB / SOLID / Swagger / API Rest 
+  - Node.js / Express / TypeORM / JWT
+  - API REST / PostgreSQL / MongoDB /
+  - SOLID / SwaggerUi  
 - Linux Professional
   - Shell Script / Ubuntu / OpenBSD / RedHat / CentOS
 - VMWare Professional
