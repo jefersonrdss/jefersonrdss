@@ -7,6 +7,7 @@
 - DevOps Tools
   - Docker / Kubernetes / ElasticSearch / Graylog / Prometheus / Grafana  
 - Linux Professional
-  - Shell Script / Ubuntu / OpenBSD / RedHat / CentOS
+  - SysAdmin / Shell Script / Task Automation
+  - FW OpenBSD PF / BIND DNS / Nagios Core Server Monitoring
 - VMWare Professional
   - vCenter / Virtualization / ESXi / Cluster
