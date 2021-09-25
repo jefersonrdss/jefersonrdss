@@ -1,7 +1,8 @@
 ### About Me 👋
 - Programador Javascript/Typescript
   - Node.js / Express / TypeORM / JWT
-  - API REST / PostgreSQL / MongoDB /
+  - API REST / PostgreSQL / MongoDB
+  - Jest - Unit/Integration Tests
   - SOLID / SwaggerUi
 - DevOps Tools
   - Docker / Kubernetes / ElasticSearch / Graylog / Prometheus / Grafana  
