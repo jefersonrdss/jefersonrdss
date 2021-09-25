@@ -9,5 +9,6 @@
 - Linux Professional
   - SysAdmin / Shell Script / Task Automation
   - FW OpenBSD PF / BIND DNS / Nagios Core Server Monitoring
+  - Postfix Mail Transfer Agent
 - VMWare Professional
   - vCenter / Virtualization / ESXi / Cluster
