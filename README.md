@@ -12,3 +12,5 @@
   - Postfix Mail Transfer Agent
 - VMWare Professional
   - vCenter / Virtualization / ESXi / Cluster
+
+[![Jeferson Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrdss)](https://github.com/jefersonrdss/github-readme-stats)
