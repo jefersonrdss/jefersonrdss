@@ -1,5 +1,5 @@
-[![Jeferson Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrdss&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/jefersonrdss/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrdss&layout=compact&theme=tokyonight)](https://github.com/jefersonrdss/github-readme-stats)
+[![Jeferson Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonrdss&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/jefersonrdss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrdss&layout=compact&theme=tokyonight)](https://github.com/jefersonrdss)
 
 ### About Me 👋
 - Programador Javascript/Typescript
