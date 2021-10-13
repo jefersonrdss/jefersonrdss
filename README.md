@@ -5,7 +5,8 @@
   - Jest - Unit/Integration Tests
   - SOLID / SwaggerUi
 - **DevOps Tools**
-  - Docker / Kubernetes / ElasticSearch / Graylog / Prometheus / Grafana  
+  - Docker / Kubernetes / ElasticSearch / Graylog / Prometheus / Grafana
+  - Terraform / Ansible / Jenkins  
 - **Linux Professional**
   - SysAdmin / Shell Script / Task Automation
   - FW OpenBSD PF / BIND DNS / Nagios Core Server Monitoring
